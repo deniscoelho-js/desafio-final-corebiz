@@ -22,6 +22,10 @@ Busquei seguir o modelo que foi pedido durante o desafio, as imagens e os textos
 - URL da Home Page: [Desafio Final](https://desafio-final-corebiz.netlify.app/)
 
 
+### Preview
+
+<img width="1352" alt="Captura de Tela 2021-09-26 às 14 32 36" src="https://user-images.githubusercontent.com/83840866/134817961-a0a0578f-32f9-4236-84cf-13bd1e4a49b7.png">
+
 ### Construído com:
 
 - React
